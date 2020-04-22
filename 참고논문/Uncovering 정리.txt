@@ -1,0 +1,4 @@
+그동안 market convergence에 관한 조사는 주로 성공적인 시장융합에 대한 사례조사였는데, 좀더 체계적이고 효율적으로 융합을 분석할 수 있는
+방법이 필요하다.
+
+data: patent data 대신 M&A transaction data 사용
